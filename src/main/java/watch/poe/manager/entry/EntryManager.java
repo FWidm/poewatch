@@ -18,7 +18,7 @@ import java.util.*;
 
 public class EntryManager extends Thread {
     //------------------------------------------------------------------------------------------------------------
-    // Class variables
+    // Class variablesppp
     //------------------------------------------------------------------------------------------------------------
 
     private Set<AccountEntry> accountSet = new HashSet<>();
